@@ -1,17 +1,17 @@
-const logotext = "{Initials Here}";
+const logotext = "J. Benedictos";
 const meta = {
     title: "{Your name}",
     description: "I'm {Your name}, a technologist and cybersecurity enthuist.",
 };
 
 const introdata = {
-    title: "Hi, I'm {Your Name}",
+    title: "Hi, I'm {JEZEL C. BENEDICTOS}",
     animated: {
-        first: "Technologist",
-        second: "Visionary",
-        third: "Ethical Hacker",
-        fourth: "Programmer",
-        fifth: "Malware Developer",
+        first: "Front-End Developer",
+        second: "Graphic Designer",
+        third: "Video Editor",
+        fourth: "React",
+        fifth: "Bootstrap",
         sixth: "Analyst",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
